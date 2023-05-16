@@ -1,0 +1,1 @@
+Feel free to use this folder to take notes during lecture or any other time.  I will not touch this folder
