@@ -1,9 +1,12 @@
 // Example
 function add(a,b) {
     var sum = a + b
-    console.log("Sum = ", sum)
+    console.log("Sum =", sum)
 }
-add(3, 4)
+// add(3,4)
+// add("HI", "There")
+
+
 // Line 2 = A Function called add taking 2 parameters called a and b
 // Line 3 = Starting instructions - creating a var called sum and setting it equal to the sum of a and b
 // Line 4 = Printing to the console the value of sum with the comment of Sum = before it
@@ -11,22 +14,30 @@ add(3, 4)
 // Line 6 = Calling or instantiating the function called add and providing the values for the variables needed for the function of 3 for a and 4 for b
 
 
-function whatIf(a) {
-    if(a == 24) {
-        console.log("A is equal to 24")
+function whatIf(a) { // creating function calling it whatIf and requiring 1 parameter called a
+    if(a == 24) { // if a is == to 24
+        var sum = a - a
+        console.log("A is equal to 24") // print this statement
+        console.log(sum)
     }
-    if(a > 10) {
+    if (a === 24) {
+        console.log("A is really equal to 24")
+    }
+    if(a > 10) { // if a greater than 10
         console.log("A is larger than 10")
     } else {
         console.log("I am not sure what A is")
     }
 }
-whatIf("Hi there")
+// whatIf("Hi there")
+// whatIf(24)
+// whatIf("24")
+
+// == means are the values equal
+//  === means are the values and the type equal
 
 
-
-
-// Bonus
+// // Bonus
 
 function adding() {
     for(var i = 0; i < 10; i++) {

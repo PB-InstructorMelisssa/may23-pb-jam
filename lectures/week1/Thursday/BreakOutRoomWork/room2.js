@@ -3,7 +3,7 @@ function add(a,b) {
     var sum = a + b
     console.log("Sum = ", sum)
 }
-add(3, 4)
+// add(3, 4)
 // Line 2 = A Function called add taking 2 parameters called a and b
 // Line 3 = Starting instructions - creating a var called sum and setting it equal to the sum of a and b
 // Line 4 = Printing to the console the value of sum with the comment of Sum = before it
@@ -12,6 +12,7 @@ add(3, 4)
 
 function whatIf(a) {
     var sum = a + a
+    // console.log(sum)
     if(a == 24) {
         console.log("A is equal to 24")
     }
@@ -37,4 +38,4 @@ function adding() {
         console.log("The value of I is: ", i)
     }
 }
-adding()
+// adding()
