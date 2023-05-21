@@ -5,7 +5,7 @@ var rider02 = [44, 9]
 var rider03 = [30, 12]
 var rider04 = [30, 9]
 
-if(rider02[0] > min  && rider02[1] > age) {
+if(rider02[0] > min && rider02[1] > age) {
     console.log('me good')
 } else {
     console.log('me no good')
