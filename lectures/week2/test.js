@@ -1,6 +1,6 @@
 // const time = new Date()  // pull the current date and time
 // // https://www.w3schools.com/jsref/jsref_obj_date.asp
-
+// testing
 
 // console.log(time)
 // var hour = time.getHours() // pulls just the hour data form the const time
