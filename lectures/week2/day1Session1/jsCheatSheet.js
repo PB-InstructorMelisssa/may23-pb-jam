@@ -186,7 +186,7 @@ if (100 > 10 && 10 === 10) {
 }
 
 //  ||  'or'
-if (100 > 10 || 10 === 10) {
+if (100 > 10 || 10 === '10') {
   console.log('Both statements are true, so this code will be run');
 }
 
