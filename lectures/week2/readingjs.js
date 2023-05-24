@@ -1,6 +1,10 @@
 // Strings
 
 const dateTimeString = new Date()
+
+var Data = [1,2,3,4]
+const date01 = new Data()
+console.log(date01)
 // console.log(dateTimeString)
 // console.log(dateTimeString.toString())
 // function date() {

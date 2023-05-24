@@ -1,3 +1,16 @@
+# Running Code - Monday 4pm Pacific
+- Terminal Commands
+- Understanding Errors
+
+# Reading Code - Monday 4pm Pacific
+- Line by line what do they mean
+- Function vs non-function
+- Why Functions
+
+# Git - Monday 4pm Pacific
+- Commands
+- Why
+
 # Parts of an App - Tuesday
 - Front End
 - Back End
@@ -8,21 +21,8 @@
 - How it is helpful
 - When to use it
 
-# Running Code - Monday 4pm Pacific
-- Terminal Commands
-- Understanding Errors
-
-# Reading Code - Monday 4pm Pacific
-- Line by line what do they mean
-- Function vs non-function
-- Why Functions
-
 # Return vs Console.log -  Tuesday
 - What is the difference
-
-# Git - Monday 4pm Pacific
-- Commands
-- Why
 
 # Class Project - Wednesday / Thursday
 - Pseudocode
