@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#screen {
+    background-color: #808080;
+    height: 95vh;
+    width: 95vw;
+}
+#dvd {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-repeat: no-repeat;
+    background-size: 75px;
+    background-position: center;
+}
+.logo {
+    max-width: 200px;
+}
